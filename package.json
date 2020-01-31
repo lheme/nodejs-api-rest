@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-api-rest",
+  "version": "1.0.0",
+  "description": "Outro projeto de API REST em Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lheme/nodejs-api-rest.git"
+  },
+  "author": "Luiz Leme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lheme/nodejs-api-rest/issues"
+  },
+  "homepage": "https://github.com/lheme/nodejs-api-rest#readme"
+}
