@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lheme/nodejs-api-rest/issues"
   },
-  "homepage": "https://github.com/lheme/nodejs-api-rest#readme"
+  "homepage": "https://github.com/lheme/nodejs-api-rest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
